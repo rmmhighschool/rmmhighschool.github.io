@@ -1110,7 +1110,7 @@ ul.list_nav {
 .search-box button.search-submit {
     padding: 10px;
     color: #fff;
-    background: url(https://rmmhighschool.github.io/wp-content/themes/gurukul-education/assets/images/search.png) no-repeat scroll 0 8px;
+    background: url(./assets/images/search.png) no-repeat scroll 0 8px;
     font-size: 13px;
     text-align: center;
     float: right;

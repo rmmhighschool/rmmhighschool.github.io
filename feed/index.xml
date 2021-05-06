@@ -9,10 +9,10 @@
 
 <channel>
 	<title>R.M.M. High School</title>
-	<atom:link href="https://rmmhighschool.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rmmhighschool.github.io</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 May 2021 18:45:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 May 2021 19:03:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 
 <image>
-	<url>https://rmmhighschool.github.io/wp-content/uploads/2021/05/rmm-100x100.png</url>
+	<url>./../wp-content/uploads/2021/05/rmm-100x100.png</url>
 	<title>R.M.M. High School</title>
-	<link>https://rmmhighschool.github.io</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
